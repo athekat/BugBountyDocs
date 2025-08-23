@@ -1,16 +1,20 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Bug Bounty Initial Steps.](README.md)
 
-## Getting Started
+## In-Depth
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [PortSwigger - Access Control](in-depth/editor.md)
+* [PortSwigger - API Testing](in-depth/editor-1.md)
 
-## Basics
+***
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [PayloadAllTheThings - Account Takeover](payloadallthethings-account-takeover.md)
+* [PayloadAllTheThings - Race Conditions](payloadallthethings-race-conditions.md)
+* [PayloadAllTheThings - API and Token Leaks](payloadallthethings-api-and-token-leaks.md)
+
+## Links
+
+* [PayloadAllTheThings](https://swisskyrepo.github.io/PayloadsAllTheThings/)
+* [HackTheBox Academy](https://academy.hackthebox.com/)
+* [PortSwigger Academy](https://portswigger.net/web-security)
